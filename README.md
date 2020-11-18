@@ -1,8 +1,5 @@
-# hcs-f20-ml
-Slides: https://tinyurl.com/hcs-f20-w3-slides
+# HCS Workshop 3:
 
-Code: https://github.com/mpekala23/hcs-f20-ml
+Code written for the workshop here: https://github.com/jye-1243/hcs-f20-ml/tree/master/HCS_Comp.
 
-Data: https://tinyurl.com/hcs-f20-w1-data
-
-Submission: https://forms.gle/NuC9jMEoxV2dY592A
+The classification is of Chinese characters, similar to the MNIST database.
